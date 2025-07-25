@@ -1,8 +1,11 @@
 import React from 'react'
+import Hero from '../Components/Hero/Hero'
 
 function ShopCatogory() {
   return (
-    <div>ShopCatogory</div>
+    <div>
+      <Hero />
+    </div>
   )
 }
 
